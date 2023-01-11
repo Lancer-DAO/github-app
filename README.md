@@ -1,5 +1,5 @@
 # lancer-0-merge-hook
 
-<!-- Hello Lancer Demo -->
+<!-- Hello there Lancer Demo -->
 
 [ISC](LICENSE) © 2022 Jack Sturtevant
