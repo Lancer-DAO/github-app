@@ -1,5 +1,5 @@
 # lancer-0-merge-hook
 
-<!-- Hello there new domains -->
+<!-- Hello there oauth -->
 
 [ISC](LICENSE) © 2022 Jack Sturtevant
