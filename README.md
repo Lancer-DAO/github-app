@@ -1,5 +1,5 @@
 # lancer-0-merge-hook
 
-<!-- Hello there char-char binks 'test customer' -->
+<!-- Hello there locale -->
 
 [ISC](LICENSE) © 2022 Jack Sturtevant
