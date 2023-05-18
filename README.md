@@ -1,5 +1,10 @@
 # lancer-0-merge-hook
 
-<!-- Hello there test-submitter-vote-->
+<!-- Hello there submitter2-->"
+notes to fix the wallet connection function asap for security reasons. 
+
+other things: 
+something else
+hey mainnet
 
 [ISC](LICENSE) © 2022 Jack Sturtevant
