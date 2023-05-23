@@ -5,6 +5,6 @@ other things:
 something else
 hey mainnet
 ext
-auth0
+auth0 scopes
 
 [ISC](LICENSE) © 2022 Jack Sturtevant
