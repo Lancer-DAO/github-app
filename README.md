@@ -5,5 +5,6 @@ other things:
 something else
 hey mainnet
 ext
+auth0
 
 [ISC](LICENSE) © 2022 Jack Sturtevant
