@@ -5,6 +5,6 @@ other things:
 something else
 hey mainnet
 ext
-auth0 scopes wallet
+auth0 scopes wallet vercel
 
 [ISC](LICENSE) © 2022 Jack Sturtevant
