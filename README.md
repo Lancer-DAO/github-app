@@ -8,3 +8,5 @@ ext
 auth0 scopes wallet vercel
 charppe
 [ISC](LICENSE) © 2022 Jack Sturtevant
+
+this file is property of Charles
