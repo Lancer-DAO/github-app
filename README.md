@@ -8,6 +8,7 @@ ext
 auth0 scopes wallet vercel
 charppe
 hey from matt.sol :)
+ghapi
 [ISC](LICENSE) © 2022 Jack Sturtevant
 
 this file is property of Charles
