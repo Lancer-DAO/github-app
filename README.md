@@ -1,2 +1,2 @@
 # lancer-0-merge-hook
-Hello there Walkthrough!
+Oh look it's a video!
